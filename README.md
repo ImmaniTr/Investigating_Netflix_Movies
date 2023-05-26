@@ -1,2 +1,2 @@
 # Investigating_Netflix_Movies
-This study focuses on a data analysis that examines the average duration of Netflix movies from 2011 to 2020
+This study focuses on a data analysis that examines the average duration of Netflix movies from 2011 to 2020. The hypothesis suggests that the average duration of movies has been decreasing over the mentioned years. By using data manipulation skills in Python to explore trends and patterns, it is determined that the hypothesis was wrong. This is due to an increase of genres in Netflix's catalog that are not movies (with a shorter duration), which generates a bias in the overall average duration of the content.
